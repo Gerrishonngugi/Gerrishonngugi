@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-My name is Gerishon Ngugi. I am a junior software developer. I've always loved the tech space but I didn't get the chance to explore it on campus. Now that I have the chance, it's all systems go!🚀<br>I am currently working on an E-commerce website built with HTML, CSS, and Javascript. Looking to pivot towards React in due time. I'm looking to collaborate on matters web development. It's a long journey and I can't do it alone, and neither can you. Let's help each other and grow together.   
+My name is Gerishon Ngugi. I am a junior software developer. I've always loved the tech space but I didn't get the chance to explore it on campus. Now that I have the chance, it's all systems go!🚀<br>I am currently working on an E-commerce website built with HTML, CSS, and Javascript. Looking to pivot towards React in due time. I'm looking to collaborate on matters of web development. It's a long journey and I can't do it alone, and neither can you. Let's help each other and grow together.   
 
 
 ## 🌐 Socials:
