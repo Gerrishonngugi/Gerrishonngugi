@@ -17,4 +17,4 @@ My name is Gerishon Ngugi. I am a junior software developer. I've always loved t
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gerrishonngugi&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Gerrishon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerrishonngugi)](https://github.com/Gerrishonngugi/github-readme-stats)
+
